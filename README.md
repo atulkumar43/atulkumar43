@@ -13,7 +13,7 @@
          <li>🔥 Launages I know are HTML5, CSS3, JS, ReactJS, Git, Bootstarp.</li>
        </ul>
       <h4> Thanks for visitinng my GitHub profile 🐧</h4>
-    </div>
+    </div
 </body>
 
 </html>
