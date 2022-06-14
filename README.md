@@ -1,19 +1,46 @@
- <h1>Heyy &#128075;</h1>
-      <h3>I'm Atul Kumar</h3>
-    </div>
-    <div class="content">
-       <h4>Here are some quick things about me.</h4>
-       <ul>
-           <li> &#127754; I am learning Web3 and Blockchain .</li>
-           <li> 🔭 I make projects on codepen.io <a href="https://codepen.io/Atul__99">Atul_99</a>. You can checkout my projects on it.</li>
-           <li>  🧸  I am 17 year's old if you are wondering by my profile pic .</li>
-           <li>  🕵️‍♀️  I am very curisous about Web3 and Coding .</li>
-           <li>  📖  Currently I am learning about UX designing and Blockchain technology.</li>
-           <li>  🌱  I make threads about Web3 and Blockchain on Twitter .</li>
-         <li>🔥 Launages I know are HTML5, CSS3, JS, Git, Bootstarp.</li>
-       </ul>
-      <h4> Thanks for visitinng my GitHub profile 🐧</h4>
-    </div
-</body>
+# Heyy 👋
 
-</html>
+## I'm Atul Kumar
+
+#### Here are some quick things about me
+
+-  🧸 I am 17 years old Frontend Developer from India.
+-  📖 Currently I am learning about React.js and UI designing.
+-  🕵️‍♀️ I am also interested in Web3 and Blockchain.
+-  🎯 Currently I am working on my UI and UX skills.
+-  ✨ I am also a Techinal writter writing threads about Web3 and Blockchain on Twitter.
+
+## Languages ⚙️
+
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+/>
+
+## Frameworks 📚
+
+<img
+  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+/>
+
+## Dev Tools ⚒
+
+<img
+  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+/>
+
+### Thanks for visiting my GitHub profile 👩‍💻 
