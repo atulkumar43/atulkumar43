@@ -4,7 +4,7 @@
 
 #### Here are some quick things about me
 
--  🧸 I am 17 years old Frontend Developer from India.
+-  🧸 I am 20 years old Frontend Developer from India.
 -  📖 Currently I am learning about React.js and UI designing.
 -  🕵️‍♀️ I am also interested in Web3 and Blockchain.
 -  🎯 Currently I am working on my UI and UX skills.
