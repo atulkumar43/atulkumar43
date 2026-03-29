@@ -4,10 +4,7 @@
 
 #### Here are some quick things about me
 
--  🧸 I am 20 years old Frontend Developer from India.
--  📖 Currently I am learning about React.js and UI designing.
--  🎯 Currently I am working on my UI and UX skills.
--  ✨ I am also a Techinal writter writing threads about Web3 and Blockchain on Twitter.
+Software designer • Learning Interaction design • Interested in Interactive media and visuals•
 
 ## Languages ⚙️
 
