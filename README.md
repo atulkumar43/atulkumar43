@@ -4,7 +4,8 @@
 
 #### Here are some quick things about me
 
-Software designer • Learning Interaction design • Interested in Interactive media and visuals•
+I'm Atul — I design interfaces and build things that respond, pulse, and sometimes make noise. This is where both worlds live.
+
 
 ## Languages ⚙️
 
@@ -16,15 +17,6 @@ Software designer • Learning Interaction design • Interested in Interactive 
 />
 <img
   src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-/>
-
-## Frameworks 📚
-
-<img
-  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
 />
 
 ## Dev Tools ⚒
